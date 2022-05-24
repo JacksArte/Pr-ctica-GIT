@@ -73,7 +73,7 @@ info.addEventListener("click", () => {
     message: "✍️ Write this down… ✍️",
     background: "hsl(51 97.8% 65.1%)",
     color: "hsl(51 97.8% 12.1%)",
-    length: "8000ms",
+    length: "9000ms",
   });
 });
 
